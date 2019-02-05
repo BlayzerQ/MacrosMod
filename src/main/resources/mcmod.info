@@ -1,0 +1,18 @@
+[{
+    "modid": "WGEnter",
+    "name": "WGEnter",
+    "description": "Отображает регион в котором находится игрок.",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "http://rubukkit.ru/",
+    "updateUrl": "http://rubukkit.ru/",
+    "credits": "",
+    "authorList": ["Defi"],
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": "false"
+}]
